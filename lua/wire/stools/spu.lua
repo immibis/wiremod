@@ -1,4 +1,4 @@
-WireToolSetup.setCategory( "Chips, Gates", "Other/Sound", "Advanced" )
+WireToolSetup.setCategory( "Other/Sound", "Advanced", "Advanced/Programmable Chips" )
 WireToolSetup.open( "spu", "SPU", "gmod_wire_spu", nil, "SPUs" )
 
 if CLIENT then

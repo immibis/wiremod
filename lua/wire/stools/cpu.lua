@@ -1,4 +1,4 @@
-WireToolSetup.setCategory( "Chips, Gates", "Advanced" )
+WireToolSetup.setCategory( "Data Processing", "Advanced", "Advanced/Programmable Chips" )
 WireToolSetup.open( "cpu", "CPU", "gmod_wire_cpu", nil, "CPUs" )
 
 if CLIENT then

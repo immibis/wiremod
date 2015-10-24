@@ -1,4 +1,4 @@
-WireToolSetup.setCategory( "Chips, Gates" )
+WireToolSetup.setCategory( "Data Processing", "Advanced/Programmable Chips" )
 WireToolSetup.open("expression2", "Expression 2", "gmod_wire_expression2", nil, "Expression2s")
 
 if CLIENT then

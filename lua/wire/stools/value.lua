@@ -1,4 +1,4 @@
-WireToolSetup.setCategory( "Input, Output" )
+WireToolSetup.setCategory( "Data Processing" )
 WireToolSetup.open( "value", "Constant Value", "gmod_wire_value", nil, "Constant Values" )
 
 if CLIENT then

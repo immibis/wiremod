@@ -1,6 +1,6 @@
 local Categories = {
 	"Favourites",
-	"Chips, Gates",
+	"Data Processing",
 	"Visuals",
 	"Detection",
 	"Input, Output",

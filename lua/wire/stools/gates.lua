@@ -1,5 +1,5 @@
 -- Made by Divran 06/01/2012
-WireToolSetup.setCategory( "Chips, Gates" )
+WireToolSetup.setCategory( "Data Processing" )
 WireToolSetup.open( "gates", "Gates", "gmod_wire_gate", nil, "Gates" )
 
 WireToolSetup.BaseLang()
