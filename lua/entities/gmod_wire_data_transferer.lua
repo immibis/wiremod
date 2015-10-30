@@ -1,8 +1,8 @@
 AddCSLuaFile()
 DEFINE_BASECLASS( "base_wire_entity" )
-ENT.PrintName       = "Wire Data Transferer"
+ENT.PrintName       = "Wire Data Transferrer"
 ENT.RenderGroup		= RENDERGROUP_BOTH
-ENT.WireDebugName	= "Data Transferer"
+ENT.WireDebugName	= "Data Transferrer"
 
 function ENT:SetupDataTables()
 	self:NetworkVar( "Float", 0, "BeamLength" )

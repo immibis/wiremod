@@ -14,7 +14,7 @@ end
 
 function ENT:LinkEnt( transmitter )
 	if not IsValid(transmitter) || transmitter:GetClass() != "gmod_wire_data_transferer" then 
-		return false, "Satellite Dishes can only be linked to Wire Data Transferers!"
+		return false, "Satellite Dishes can only be linked to Wire Data Transferrers!"
 	end
 	self.Transmitter = transmitter
 	self:ShowOutput()
